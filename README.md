@@ -18,6 +18,6 @@ Program functions:
 
 All entered user data are checked for correctness. Phone number correctness is checked with regular expressions.
 
-Checked for memory leaks with Deleaker and Visual Leak Detector.
+Checked for memory leaks with Deleaker and Visual Leak Detector. Version with GUI is comming soon.
 
 
