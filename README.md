@@ -1,4 +1,4 @@
-# Contact-Phonebook-console
+# Contact Phonebook [console]
 A console application to keep and manage phonebook information: view, group and export contacts according to your requirements.
 
 This application keeps records of phonebook contacts: their names, phone numbers. There is an opportunity to group contacts, delete, sort and change it's information. Set star function is also included. With ContactStorage class it is easy to make more different contact storages without mixing information.
